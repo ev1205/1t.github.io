@@ -170,7 +170,7 @@ hr {
 }
 
 .nav__link.active {
-    color: #2ecc71;
+    color: #1abc9c;
 }
 
 
@@ -269,8 +269,7 @@ hr {
 
 }
 .section--gray {
-    background-color: #2ecc71;
-}
+    background-color: #1abc9c;}
 
 .section--clients {
     background: #f5f5f5 url("../images/clients-bg.jpg") center no-repeat;
@@ -334,7 +333,7 @@ hr {
 
 .card__inner {
     position: relative;
-    background-color: #2ecc71;
+    background-color: #1abc9c;
 }
 
 .card__inner:hover .card__img {
@@ -350,7 +349,7 @@ hr {
 }
 
 .card__img {
-    background: linear-gradient(to bottom, #2ecc71, #1abc9c);
+    background: linear-gradient(to bottom, #1abc9c, #2ecc71);
 
     transition: transform .2s linear;
 }
@@ -404,7 +403,7 @@ hr {
 
 /* Statistics */
 .statistics {
-    background-color: #d6bea4;
+    background-color: #1abc9c;
 }
 
 .stat {
