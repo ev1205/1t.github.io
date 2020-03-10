@@ -402,10 +402,9 @@ hr {
 
 
 /* Statistics */
-.statistics {
-    background: linear-gradient(to bottom, #1abc9c, #2ecc71);
+.statistics {background-color: linear-gradient(to bottom, #1abc9c, #2ecc71);
 
-
+}
 .stat {
     display: flex;
 }
