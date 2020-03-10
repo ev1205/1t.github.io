@@ -48,7 +48,7 @@ hr {
     height: 100vh;
 
     background: url("../images/25.jpg") center no-repeat;
-    -webkit-background-size: cover;
+    -webkit-font-smoothing: antialiased;
     background-size: cover;
 }
 
