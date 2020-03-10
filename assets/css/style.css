@@ -688,6 +688,8 @@ hr {
 
 /* Logos */
 .logos {
+background: linear-gradient(to bottom,#2ecc71, #1abc9c);
+
     display: flex;
     justify-content: space-between;
     align-items: center;
