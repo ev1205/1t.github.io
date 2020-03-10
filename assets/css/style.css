@@ -402,8 +402,7 @@ hr {
 
 
 /* Statistics */
-.statistics {background-color: #1abc9c;
- background: linear-gradient(to bottom, #1abc9c, #2ecc71);
+.statistics {background-color: linear-gradient(to bottom, #1abc9c, #2ecc71);
 }
 stat {
     display: flex;
