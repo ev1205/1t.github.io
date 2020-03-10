@@ -404,7 +404,7 @@ hr {
 /* Statistics */
 .statistics {background-color: gradient(to bottom, #1abc9c, #2ecc71);
 }
-stat {
+.stat {
     display: flex;
 }
 
