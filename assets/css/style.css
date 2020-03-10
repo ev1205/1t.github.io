@@ -402,7 +402,8 @@ hr {
 
 
 /* Statistics */
-.statistics {background: linear-gradient(to bottom, #1abc9c, #2ecc71);
+.statistics {
+    background: linear-gradient(to bottom,#2ecc71, #1abc9c);
 }
 .stat {
     display: flex;
@@ -706,7 +707,7 @@ hr {
 .works__item {
     position: relative;
 
-    background: linear-gradient(to bottom, #f38181, #fce38a);
+    background: linear-gradient(to bottom,#2ecc71, #1abc9c);
 }
 
 .works__item:hover .works__image {
